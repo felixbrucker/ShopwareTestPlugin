@@ -10,6 +10,7 @@ Please note these changes (**in bold** or *in italic*)...
 
 not much to say
 
+
 ## 3.0.0
 
 ### de
@@ -20,11 +21,13 @@ nothing has changed
 
 ## 2.0.0
 
+
 ### de
 
 this is the beginning
 
 ## 1.0.0
+
 
 ## 0.0.1
 
