@@ -1,0 +1,8 @@
+{
+    "name": "Viison/ShopwareTestPlugin",
+    "type": "shopware-core-plugin",
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}

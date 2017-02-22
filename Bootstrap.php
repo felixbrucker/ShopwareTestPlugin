@@ -1,6 +1,6 @@
 <?php
 
-final class Shopware_Plugins_Core_ViisonSCSAPITest_Bootstrap extends Shopware_Components_Plugin_Bootstrap
+final class Shopware_Plugins_Core_ViisonTestPlugin_Bootstrap extends Shopware_Components_Plugin_Bootstrap
 {
     public function getVersion()
     {
