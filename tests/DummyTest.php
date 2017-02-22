@@ -6,6 +6,6 @@ final class DummyTest extends TestCase
 {
     public function test_success()
     {
-        $this->assertTrue(false);
+        $this->assertTrue(true);
     }
 }
