@@ -1,3 +1,16 @@
+## 3.1.0
+
+### de
+Please note these changes (**in bold** or *in italic*)...
+
+* line 1
+* line 2
+
+### en
+
+not much to say
+
+
 ## 3.0.1
 
 ### de
