@@ -1,0 +1,22 @@
+{
+    "currentVersion": "0.0.1",
+    "author": "Sven Mun",
+    "copyright": "Copyright (c) 2016 VIISON GmbH",
+    "license": "MIT",
+    "link": "https://www.pickware.de/",
+    "label": {
+        "de": "[Platzhalter] Test Plugin",
+        "en": "[Dummy] Test Plugin"
+    },
+    "compatibility": {
+        "minimumVersion": "99.99.99"
+    },
+    "changelogs": {
+        "de": {
+            "0.0.0": "A ein Test;B ein zweiter Test;"
+        },
+        "en": {
+            "0.0.1": "A a test;B a second test;"
+        }
+    }
+}
